@@ -56,5 +56,3 @@ function fortuneTeller(name, age) {
 
 let userName = prompt("Insert your name");
 let userAge = prompt("Insert your age");
-
-console.log(fortuneTeller(userName, userAge));
